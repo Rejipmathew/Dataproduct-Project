@@ -1,7 +1,7 @@
 # Dataproduct-Coursera Project
  Shiny app was created as part of Coursera Developing data products course for completion of online course.
 This Shiny data product is based on a simulated normally distributed data set for predicting salary based on different job functions and years of experience in hospital setting.  
-        ##Source code can be viewd in git hub link.      
+        ##Source code can be viewed in git hub link.      
         ##Shiny app io link https://rpm-2016.shinyapps.io/HospitalSal_Shinyapp/  
         ##Rpubs link http://rpubs.com/rejipmathew/Hospitalsal_dash  
         
