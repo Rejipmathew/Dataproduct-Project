@@ -4,6 +4,6 @@
         ##Shiny app io link https://rpm-2016.shinyapps.io/HospitalSal_Shinyapp/  
         ##Rpubs link http://rpubs.com/rejipmathew/Hospitalsal_dash  
         
-        The interactive dashboard allows you to compare salary compensation to
-        current compensation structures within a hospital job. It can be used to
-        prepare a fair salary offer for new candidates or in case of job promotions.
+The interactive dashboard allows you to compare salary compensation to
+current compensation structures within a hospital job. It can be used to
+prepare a fair salary offer for new candidates or in case of job promotions.
